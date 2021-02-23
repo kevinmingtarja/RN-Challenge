@@ -90,4 +90,4 @@ Note: For best viewing experience, please use the Expo Go app to test the app (I
 - To indicate that you have completed a task, you can click on the gray circle on each task and it will turn green to indicate that you have completed that task. The text will also change to a lighter color and there will be a line striking through it.
 
 ## Demo 
-[![Demo](https://gifs.com/gif/demo-JyJwm9)](https://www.youtube.com/watch?v=tg7vzaab8Jg&feature=youtu.be)
+[![Demo](https://img.youtube.com/vi/tg7vzaab8Jg/0.jpg)](https://www.youtube.com/watch?v=tg7vzaab8Jg&feature=youtu.be)
